@@ -38,7 +38,7 @@
     <img src="https://github.com/Girlwithasmile/Rakshak/blob/main/logo.png?raw=true">
 
 <div class="navbar">
-    <a href="#home">Home</a>
+    <a href="home.php">Home</a>
     <a href="services.php">Services</a>
     <a href="#contact">Contact</a>
 </div>
